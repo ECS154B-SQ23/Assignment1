@@ -90,23 +90,23 @@ To run the dinocpu container using apptainer, run the following command in the
 dinocpu folder,
 
 ```bash
-apptainer run --bind $(pwd):/home/sbt-user --workdir /home/sbt-user docker://jlpteaching/dinocpu-sq23
+apptainer run --bind $(pwd):/home/sbt-user --workdir /home/sbt-user docker://jlpteaching/dinocpu-wq23
 ```
 
-The command will pull the jlpteaching/dinocpu-sq23 image from the Docker Hub
+The command will pull the jlpteaching/dinocpu-wq23 image from the Docker Hub
 Container Image Library, and run sbt, the Scala interactive tool. The command
 line should look like this,
 
 ```bash
-Unable to find image 'jlpteaching/dinocpu-sq23:latest' locally
-latest: Pulling from jlpteaching/dinocpu-sq23
+Unable to find image 'jlpteaching/dinocpu-wq23:latest' locally
+latest: Pulling from jlpteaching/dinocpu-wq23
 e96e057aae67: Pull complete
 bdb9413ca2c5: Pull complete
 ce5c4157a592: Pull complete
 ae906d0f6b61: Pull complete
 899b16822c39: Pull complete
 Digest: sha256:b520941b695d9d4c1e8c72cd0143c3f300655790e7ca928e59042b32a7eb90b4
-Status: Downloaded newer image for jlpteaching/dinocpu-sq23:latest
+Status: Downloaded newer image for jlpteaching/dinocpu-wq23:latest
 downloading sbt launcher 1.8.0
 copying runtime jar...
 [info] [launcher] getting org.scala-sbt sbt 1.2.7  (this may take some time)...
