@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="COE-CS-pc37.OU.AD3.UCDAVIS.EDU" name="dinocpu.SingleCycleRTypeMExtensionTesterLab1" tests="66" errors="0" failures="0" skipped="0" time="31.699" timestamp="2023-04-05T23:27:26">
+                     <properties>
+      <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/><property name="java.specification.version" value="11"/><property name="sun.cpu.isalist" value=""/><property name="sun.jnu.encoding" value="ANSI_X3.4-1968"/><property name="sun.arch.data.model" value="64"/><property name="java.vendor.url" value="https://ubuntu.com/"/><property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/><property name="sun.java.command" value="/home/sbt-user/.cache/sbt/boot/sbt-launch/1.8.0/sbt-launch-1.8.0.jar"/><property name="jdk.debug" value="release"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2022-10-18"/><property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/><property name="file.separator" value="/"/><property name="java.vm.compressedOopsMode" value="Zero based"/><property name="line.separator" value="
+"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="11.0.17+8-post-Ubuntu-1ubuntu222.04"/><property name="user.name" value="kaustavg"/><property name="file.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/tmp/jna-1150024274/jna16285640579639543007.tmp"/><property name="jna.loaded" value="true"/><property name="java.io.tmpdir" value="/tmp"/><property name="java.version" value="11.0.17"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/><property name="sun.os.patch.level" value="unknown"/><property name="java.library.path" value="/.singularity.d/libs:/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/><property name="java.vendor" value="Ubuntu"/><property name="scala.ext.dirs" value="/home/kaustavg/.sbt/1.0/java9-rt-ext-ubuntu_11_0_17"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="java.class.path" value="/home/sbt-user/.cache/sbt/boot/sbt-launch/1.8.0/sbt-launch-1.8.0.jar"/><property name="java.vm.vendor" value="Ubuntu"/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="GMT"/><property name="os.name" value="Linux"/><property name="java.vm.specification.version" value="11"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="US"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="/home/kaustavg"/><property name="user.language" value="en"/><property name="sbt.script" value="/usr/bin/sbt"/><property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/><property name="jline.esc.timeout" value="0"/><property name="path.separator" value=":"/><property name="os.version" value="5.15.0-69-generic"/><property name="jna.nosys" value="true"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="jna.platform.library.path" value="/usr/lib/x86_64-linux-gnu:/lib/x86_64-linux-gnu:/usr/lib64:/lib64:/usr/lib:/lib"/><property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-lts"/><property name="user.dir" value="/home/kaustavg/TA/ECS154B/Assignment1-SQ/single-cycle-cpu/dinocpu-assignment1"/><property name="os.arch" value="amd64"/><property name="java.vm.info" value="mixed mode, sharing"/><property name="java.vm.version" value="11.0.17+8-post-Ubuntu-1ubuntu222.04"/><property name="java.class.version" value="55.0"/>
+    </properties>
+                     <testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mul-zero-positive" time="2.784">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mul-positive-positive" time="0.656">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mul-negative-positive" time="0.578">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mul-negative-negative" time="0.502">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mul-big-numbers-positive-positive" time="0.423">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mul-big-numbers-negative-positive" time="0.457">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mul-big-numbers-negative-negative" time="0.462">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulh-zero-positive" time="0.469">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulh-positive-positive" time="0.45">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulh-negative-positive" time="0.495">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulh-negative-negative" time="0.495">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulh-big-numbers-positive-positive" time="0.496">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulh-big-numbers-negative-positive" time="0.447">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulh-big-numbers-negative-negative" time="0.467">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulhu-zero" time="0.409">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulhu-small-numbers" time="0.399">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulhu-big-numbers-1" time="0.579">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulhu-big-numbers-2" time="0.516">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulhsu-zero-positive" time="0.431">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulhsu-positive-positive" time="0.419">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulhsu-negative-positive" time="0.444">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulhsu-big-numbers-positive-positive" time="0.492">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulhsu-big-numbers-negative-positive-1" time="0.416">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulhsu-big-numbers-negative-positive-2" time="0.394">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulw-zero-positive" time="0.392">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulw-positive-positive" time="0.395">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulw-negative-positive" time="0.46">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulw-negative-negative" time="0.411">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulw-big-numbers-positive-positive" time="0.416">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulw-big-numbers-negative-positive" time="0.441">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction mulw-big-numbers-negative-negative" time="0.441">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction div-positive-positive" time="0.468">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction div-positive-negative" time="0.4">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction div-negative-negative" time="0.396">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction div-division-by-zero" time="0.451">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction div-overflow" time="0.394">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction rem-positive-positive" time="0.415">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction rem-positive-negative" time="0.435">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction rem-negative-positive" time="0.417">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction rem-negative-negative" time="0.419">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction rem-division-by-zero" time="0.453">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction rem-overflow" time="0.437">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction divu-1" time="0.459">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction divu-2" time="0.381">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction divu-division-by-zero" time="0.389">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction remu-1" time="0.407">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction remu-2" time="0.435">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction remu-division-by-zero" time="0.452">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction divw-positive-positive" time="0.493">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction divw-positive-negative" time="0.434">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction divw-negative-negative" time="0.43">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction divw-sign-extension" time="0.502">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction divw-division-by-zero" time="0.43">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction divw-overflow" time="0.455">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction remw-positive-positive" time="0.403">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction remw-positive-negative" time="0.465">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction remw-negative-negative" time="0.51">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction remw-sign-extension" time="0.461">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction remw-division-by-zero" time="0.429">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction remw-overflow" time="0.424">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction divuw-1" time="0.381">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction divuw-2" time="0.414">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction divuw-division-by-zero" time="0.42">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction remuw-1" time="0.4">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction remuw-2" time="0.381">
+                                                 
+                                               </testcase><testcase classname="dinocpu.SingleCycleRTypeMExtensionTesterLab1" name="Single Cycle CPU should run R-type instruction remuw-division-by-zero" time="0.423">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

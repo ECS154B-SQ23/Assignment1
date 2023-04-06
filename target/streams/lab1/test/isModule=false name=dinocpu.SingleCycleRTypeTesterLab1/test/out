@@ -1,0 +1,33 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSingleCycleRTypeTesterLab1:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSingle Cycle CPU[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction addw1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction addw2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction addw3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction or[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sub[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction subw1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction subw2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction subw3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction and[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction xor[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction slt[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction slt1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sltu[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sltu1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sll[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sll2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sllw1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sllw2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sllw3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sllw4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction srl[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction srl2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction srlw1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction srlw2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction srlw3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction srlw4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sra[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sra2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sraw1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sraw2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should run R-type instruction sraw3[0m[0m
