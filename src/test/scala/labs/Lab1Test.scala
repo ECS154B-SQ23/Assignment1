@@ -27,7 +27,7 @@ class ALUControlUnitRTypeTester(c: ALUControl) extends PeekPokeTester(c) {
     (       1.U, "b0000000".U, "b110".U, "b01110".U, "or"),
     (       1.U, "b0000000".U, "b111".U, "b01101".U, "and"),
     (       1.U, "b0000001".U, "b000".U, "b00101".U, "mul"),
-    (       1.U, "b0000001".U, "b001".U, "b10111".U, "mulh"),
+    (       1.U, "b0000001".U, "b001".U, "b00111".U, "mulh"),
     (       1.U, "b0000001".U, "b010".U, "b11000".U, "mulhsu"),
     (       1.U, "b0000001".U, "b011".U, "b01000".U, "mulhu"),
     (       1.U, "b0000001".U, "b100".U, "b01001".U, "div"),
