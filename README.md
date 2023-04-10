@@ -140,7 +140,7 @@ To find out how much space the Singularity containers are using, you can you
 du -sh ?
 ```
 
-Let us know if you would liek more details on thios method via
+Let us know if you would like more details on this method via
 [Piazza](https://piazza.com/class/let902t7oig1lr).
 
 ## Important notice
